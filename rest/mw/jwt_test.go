@@ -5,7 +5,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"git.tech.kora.id/go/rest"
+	"github.com/raryanda/go/rest"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/stretchr/testify/assert"
 )

@@ -8,7 +8,7 @@ var RequestHeader = `
 package {{PackageName}}
 
 import (
-	"git.tech.kora.id/go/validation"
+	"github.com/raryanda/go/validation"
 )
 `
 

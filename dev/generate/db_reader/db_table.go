@@ -6,7 +6,7 @@ package dbReader
 
 import (
 	"fmt"
-	"git.tech.kora.id/go/utility"
+	"github.com/raryanda/go/utility"
 	"strings"
 )
 

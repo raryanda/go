@@ -13,7 +13,7 @@ import (
 	"os"
 	"strings"
 
-	"git.tech.kora.id/go/dev/core"
+	"github.com/raryanda/go/dev/core"
 	"github.com/gemalto/flume"
 )
 

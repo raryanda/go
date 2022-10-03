@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"time"
 
-	"git.tech.kora.id/go/rest"
+	"github.com/raryanda/go/rest"
 	"go.uber.org/zap"
 )
 

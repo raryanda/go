@@ -12,10 +12,10 @@ import (
 
 	"database/sql"
 
-	"git.tech.kora.id/go/dev/core"
-	dbReader "git.tech.kora.id/go/dev/generate/db_reader"
-	"git.tech.kora.id/go/dev/generate/stubs"
-	"git.tech.kora.id/go/utility"
+	"github.com/raryanda/go/dev/core"
+	dbReader "github.com/raryanda/go/dev/generate/db_reader"
+	"github.com/raryanda/go/dev/generate/stubs"
+	"github.com/raryanda/go/utility"
 )
 
 func FileModel(driver string, conn string, selectedTables string, tpl *core.StubTemplate) {

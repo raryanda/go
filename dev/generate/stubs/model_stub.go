@@ -14,7 +14,7 @@ package model
 import (
 	{{timePkg}}
 
-	"git.tech.kora.id/go/orm"
+	"github.com/raryanda/go/orm"
 )
 
 {{modelStruct}}

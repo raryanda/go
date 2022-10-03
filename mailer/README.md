@@ -39,7 +39,7 @@ SMTP_SENDER_NAME=
     package main
     
     import (
-        "git.tech.kora.id/go/mailer"
+        "github.com/raryanda/go/mailer"
     )
     
     func main() {
@@ -65,7 +65,7 @@ To set multiple receipient is easy, just type many receipient email
     package main
         
         import (
-            "git.tech.kora.id/go/mailer"
+            "github.com/raryanda/go/mailer"
         )
         
         func main() {
@@ -81,7 +81,7 @@ When you want to set name of receipient, you need to formating it first using
      package main
          
          import (
-             "git.tech.kora.id/go/mailer"
+             "github.com/raryanda/go/mailer"
          )
          
          func main() {
@@ -108,7 +108,7 @@ dijadikan sebagai email body pada messages.
     package main
     
     import (
-        "git.tech.kora.id/go/mailer"
+        "github.com/raryanda/go/mailer"
     )
     
     func main() {

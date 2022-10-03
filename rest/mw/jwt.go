@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"strings"
 
-	"git.tech.kora.id/go/rest"
+	"github.com/raryanda/go/rest"
 	"github.com/dgrijalva/jwt-go"
 )
 

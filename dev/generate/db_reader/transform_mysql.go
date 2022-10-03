@@ -7,8 +7,8 @@ package dbReader
 import (
 	"database/sql"
 	"fmt"
-	"git.tech.kora.id/go/dev/core"
-	"git.tech.kora.id/go/utility"
+	"github.com/raryanda/go/dev/core"
+	"github.com/raryanda/go/utility"
 	"os"
 	"strings"
 

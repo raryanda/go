@@ -9,7 +9,7 @@ import (
 	"net/url"
 	"strings"
 
-	"git.tech.kora.id/go/utility"
+	"github.com/raryanda/go/utility"
 )
 
 // RequestQuery struct readed from context

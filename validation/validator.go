@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"git.tech.kora.id/go/utility"
+	"github.com/raryanda/go/utility"
 )
 
 type (

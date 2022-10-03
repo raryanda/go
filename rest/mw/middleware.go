@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"git.tech.kora.id/go/rest"
+	"github.com/raryanda/go/rest"
 )
 
 type (

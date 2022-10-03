@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"time"
 
-	"git.tech.kora.id/go/orm"
+	"github.com/raryanda/go/orm"
 
 	// mysql database connection
 	_ "github.com/go-sql-driver/mysql"

@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"git.tech.kora.id/go/env"
+	"github.com/raryanda/go/env"
 )
 
 // These tests require redis server running on localhost:6379 (the default)

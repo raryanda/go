@@ -1,8 +1,8 @@
 package mw
 
 import (
-	"git.tech.kora.id/go/rest"
-	"git.tech.kora.id/go/utility/random"
+	"github.com/raryanda/go/rest"
+	"github.com/raryanda/go/utility/random"
 )
 
 type (

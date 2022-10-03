@@ -45,7 +45,7 @@ VISIBILITY=true
 ```go
 package main
 
-import "git.tech.kora.id/go/env"
+import "github.com/raryanda/go/env"
 // import env from cuxs
 
 type config struct {

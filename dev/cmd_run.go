@@ -11,7 +11,7 @@ import (
 	"runtime"
 	"strings"
 
-	"git.tech.kora.id/go/dev/core"
+	"github.com/raryanda/go/dev/core"
 )
 
 var (

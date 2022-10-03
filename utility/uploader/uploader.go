@@ -14,7 +14,7 @@ import (
 
 	"github.com/aws/aws-sdk-go/service/s3/s3manager"
 
-	"git.tech.kora.id/go/utility/random"
+	"github.com/raryanda/go/utility/random"
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/credentials"
 	"github.com/aws/aws-sdk-go/aws/session"

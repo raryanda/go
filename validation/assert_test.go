@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"git.tech.kora.id/go/validation"
+	"github.com/raryanda/go/validation"
 
 	"github.com/stretchr/testify/assert"
 )

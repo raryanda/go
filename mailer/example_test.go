@@ -11,7 +11,7 @@ import (
 	"log"
 	"time"
 	
-	"git.tech.kora.id/go/mailer"
+	"github.com/raryanda/go/mailer"
 )
 
 func Example() {

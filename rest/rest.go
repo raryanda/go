@@ -16,7 +16,7 @@ import (
 	stdContext "context"
 	stdLog "log"
 
-	"git.tech.kora.id/go/utility/log"
+	"github.com/raryanda/go/utility/log"
 	"go.uber.org/zap"
 	"golang.org/x/crypto/acme/autocert"
 )

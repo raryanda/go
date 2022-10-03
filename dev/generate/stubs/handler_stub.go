@@ -4,7 +4,7 @@ var HandlerStruct = `
 package {{PackageName}}
 
 import (
-	"git.tech.kora.id/go/rest"
+	"github.com/raryanda/go/rest"
 )
 
 type Handler struct{}

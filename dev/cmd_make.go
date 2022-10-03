@@ -6,8 +6,8 @@ package main
 
 import (
 	"fmt"
-	"git.tech.kora.id/go/dev/core"
-	"git.tech.kora.id/go/dev/generate"
+	"github.com/raryanda/go/dev/core"
+	"github.com/raryanda/go/dev/generate"
 	"os"
 )
 

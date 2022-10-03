@@ -23,7 +23,7 @@ import (
 	"strings"
 	"time"
 
-	"git.tech.kora.id/go/utility/log"
+	"github.com/raryanda/go/utility/log"
 	"go.uber.org/zap"
 )
 

@@ -14,7 +14,7 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"git.tech.kora.id/go/utility"
+	"github.com/raryanda/go/utility"
 )
 
 // IsNotEmpty returns true if value is not nill

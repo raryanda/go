@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"strings"
 
-	"git.tech.kora.id/go/utility"
+	"github.com/raryanda/go/utility"
 )
 
 // Response format when running validations

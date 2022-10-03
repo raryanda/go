@@ -9,8 +9,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"git.tech.kora.id/go/rest"
-	"git.tech.kora.id/go/rest/mw"
+	"github.com/raryanda/go/rest"
+	"github.com/raryanda/go/rest/mw"
 
 	"github.com/stretchr/testify/assert"
 )

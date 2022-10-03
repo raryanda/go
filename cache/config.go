@@ -4,7 +4,7 @@
 
 package cache
 
-import "git.tech.kora.id/go/env"
+import "github.com/raryanda/go/env"
 
 // Config instance of configuration application
 // for cache

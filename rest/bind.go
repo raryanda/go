@@ -9,7 +9,7 @@ import (
 	"strings"
 	"sync"
 
-	"git.tech.kora.id/go/validation"
+	"github.com/raryanda/go/validation"
 )
 
 type (

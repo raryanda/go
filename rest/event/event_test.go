@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"git.tech.kora.id/go/rest/event"
+	"github.com/raryanda/go/rest/event"
 	"github.com/stretchr/testify/assert"
 )
 

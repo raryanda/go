@@ -5,7 +5,7 @@
 package mailer
 
 import (
-	"git.tech.kora.id/go/env"
+	"github.com/raryanda/go/env"
 )
 
 // Config represents all configurable mailer data smtp credentials

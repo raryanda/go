@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"testing"
 
-	"git.tech.kora.id/go/rest"
+	"github.com/raryanda/go/rest"
 	"github.com/stretchr/testify/assert"
 	"go.uber.org/zap"
 )

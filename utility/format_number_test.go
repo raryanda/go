@@ -7,7 +7,7 @@ package utility_test
 import (
 	"testing"
 
-	"git.tech.kora.id/go/utility"
+	"github.com/raryanda/go/utility"
 
 	"github.com/stretchr/testify/assert"
 )

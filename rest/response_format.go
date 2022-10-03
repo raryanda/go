@@ -7,7 +7,7 @@ package rest
 import (
 	"net/http"
 
-	"git.tech.kora.id/go/validation"
+	"github.com/raryanda/go/validation"
 )
 
 // ResponseFormat is standart response formater of the applicatin.
